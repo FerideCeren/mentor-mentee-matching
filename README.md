@@ -41,4 +41,32 @@ The department of the applicant
 What grade the student is in or what position the Mentor holds.
 
 *Which of the following topic(s) would you be most interested in reading about?*<br>
-This question is the same in both the student and mentor datasets and identifies the areas of interest of both students and mentors. Some of the areas of interest are "Set/Model Theory, Numerical Analysis, Mathematical Modeling, ..." and columns 5 to 35 in the test data are dedicated to this question. While students chose 3 areas of interest, mentors chose 4.
+The columns 5 to 35 in the test data are dedicated to this question is the same in both the student and mentor datasets and identifies the areas of interest of both students and mentors. While students chose 3 areas of interest, mentors chose 4.
+
+### Areas of Interests
+*Analysis*<br>
+Real Analysis/Functional Analysis, Complex Analysis, Harmonic Analysis, Numerical Analysis, Probability Theory, Statistics
+
+*Foundations of mathematics*<br>
+Mathematical logic (Set/Model Theory etc..), Category theory
+
+*Algebra*<br>
+Rings and Algebra, Group theory, Representation theory
+
+*Number theory*<br>
+Analytic number theory, Algebraic number theory
+
+*Combinatorics and Graph theory*<br>
+Combinatorics, Graph theory
+
+*Geometry and Topology*<br>
+General topology, Geometric topology, Algebraic topology, Algebraic geometry, Differential geometry
+
+*Applied Mathematics*<br>
+Probability theory, Statistics, Computer algebra, Data science, Cryptography/Coding theory, Mathematical modeling, Classical mechanics, Complex/Dynamical systems, Quantum theory, Relativity and Quantum relativistic theories, Statistical mechanics
+
+
+
+
+
+
